@@ -24,17 +24,11 @@ One sentence describing the product.
 
 ## Problem Statement
 
-Describe the problem you chose to solve. Be specific about the pain point, who experiences it, and why existing solutions fall short.
+Describe the problem you are solving. 
 
 ---
 
-## Target User
-
-Who is this built for? Include demographics, context of use, and the primary job-to-be-done.
-
----
-
-## Features
+## Unique Features
 
 - Feature one — brief description
 - Feature two — brief description
